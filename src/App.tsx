@@ -26,7 +26,7 @@ export default function App() {
 
         <div className="mt-4 flex items-center">
           <img
-            src="/public/assets/images/image-avatar.png"
+            src="/assets/images/image-avatar.png"
             alt="Author Image"
             className="h-10 w-10 rounded-full mr-3"
           />
