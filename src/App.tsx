@@ -1,8 +1,8 @@
 export default function App() {
   return (
     <section className="flex items-center justify-center h-screen">
-      <div className="bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,0.9)] border-[1px] border-black rounded-lg max-w-xs p-6 relative">
-        <div className="bg-yellow-400 h-32 w-full rounded-lg overflow-hidden flex items-center justify-center">
+      <div className="bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,0.9)]  border-[1px] border-black rounded-lg max-w-xs p-6 relative">
+        <div className="bg-yellow-400  w-full rounded-lg overflow-hidden flex items-center justify-center">
           <img
             src="/assets/images/illustration-article.png"
             alt="Illustration"
