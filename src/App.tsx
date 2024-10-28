@@ -4,7 +4,7 @@ export default function App() {
       <div className="bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,0.9)] border-[1px] border-black rounded-lg max-w-xs p-6 relative">
         <div className="bg-yellow-400 h-32 w-full rounded-lg overflow-hidden flex items-center justify-center">
           <img
-            src="/public/assets/images/illustration-article.png"
+            src="/src/assets/images/illustration-article.png"
             alt="Illustration"
             className="w-full h-full object-cover"
           />
@@ -26,7 +26,7 @@ export default function App() {
 
         <div className="mt-4 flex items-center">
           <img
-            src="/public/assets/images/image-avatar.webp"
+            src="/src/assets/images/image-avatar.webp"
             alt="Author Image"
             className="h-10 w-10 rounded-full mr-3"
           />
